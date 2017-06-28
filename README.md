@@ -13,8 +13,7 @@ Alexia Garland
 This project helped me learn how to use nested statements and how to caluclate the income of taxes by using brackets.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alexiagarland.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. How to calculate taxes
